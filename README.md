@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Manish Kumar 👋
 
-<!--
-**manishksec/manishksec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Cloud Security Engineer | DevSecOps
 
-Here are some ideas to get you started:
+🎓 B.Tech — Cloud Technology & Information Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about cloud security, infrastructure protection, DevOps automation, and open-source security projects.
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,jenkins,docker,kubernetes,terraform" alt="Tech Stack"/>
+</p>
+
+- ☁️ Multi-Cloud Security
+- 🔐 IAM & Threat Detection
+- ⚙️ DevOps & DevSecOps
+- 🏗️ Terraform & Infrastructure as Code
+- 🌐 Open-Source Security Tools
+
+### 🎯 Goal
+
+Building secure and resilient cloud environments across AWS, Azure, and GCP.
+
+### 📫 Connect
+
+- GitHub: [@nexqor](https://github.com/manishksec)
+- LinkedIn: [Manish Kumar](https://www.linkedin.com/in/manish-kumar-b915042a6/)
+
+**Learn. Build. Secure.** 🚀
