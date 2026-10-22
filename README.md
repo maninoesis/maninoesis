@@ -24,7 +24,7 @@ Building secure and resilient cloud environments across AWS, Azure, and GCP.
 
 ### 📫 Connect
 
-- GitHub: [@nexqor](https://github.com/manishksec)
+- GitHub: [@manishksec](https://github.com/manishksec)
 - LinkedIn: [Manish Kumar](https://www.linkedin.com/in/manish-kumar-b915042a6/)
 
 **Learn. Build. Secure.** 🚀
